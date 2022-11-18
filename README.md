@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sina
 - 👀 I’m interested in front-end develpment
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning node.js
 - 📫 How to reach me on inestagram: @sina_gh1999
